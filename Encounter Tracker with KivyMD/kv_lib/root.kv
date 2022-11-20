@@ -1,0 +1,111 @@
+#:kivy 1.0.0
+#:import Factory kivy.factory.Factory
+
+MainScreen:
+
+    #ids
+    screen_manager: screen_manager
+    
+    MDBoxLayout:
+        orientation: "vertical"
+        
+        MDTopAppBar:
+            id: top_bar
+            title: "D&D Encounter Manager"
+            elevation: 2
+            pos_hint: {"top": 1}
+            md_bg_color: app.theme_cls.primary_color
+            # specific_text_color: "#4a4939"
+        
+        MDScreenManager:
+            id: screen_manager
+            top_bar_reference: top_bar #This is used to reference TopAppBar by screens. Because of changing it's title to screen name
+            
+            #SCREENS
+            LoadingWindow:
+            EncountersWindow:
+            PlayersWindow:
+            MonstersWindow:
+            EncounterMakingWindow:
+            EncounterManagerWindow:
+
+    MDNavigationLayout:
+
+        MDScreenManager:
+           
+        MDNavigationDrawer:
+            id: nav_drawer
+            radius: (0, 16, 16, 0)
+
+            MDList:
+                pos_hint: {"center_y": 0.5}
+                
+                OneLineListItem:
+                    text: "Encounters"
+                    on_press:
+                        nav_drawer.set_state("close")
+                        screen_manager.current = "encounters_screen"
+                        top_bar.title = self.text
+
+                OneLineListItem:
+                    text: "Players"
+                    on_press:
+                        nav_drawer.set_state("close")
+                        screen_manager.current = "players_screen"
+                        top_bar.title = "Players"
+
+                OneLineListItem:
+                    text: "Monsters"
+                    on_press:
+                        nav_drawer.set_state("close")
+                        screen_manager.current = "monsters_screen"
+                        top_bar.title = self.text
+        
+    
+##==============================================    
+#CUSTOM WIDGETS AND TEMPLATES
+
+<AddButton>:
+    padding: [15]
+    adaptive_size: True
+    pos_hint: {"right": 1, "bottom": 1}
+    
+    icon_button: icon_button_id
+
+    MDFloatingActionButton:
+        id: icon_button_id
+        icon: "plus"
+        md_bg_color: app.secondary_color
+        on_press: root.on_press_button()  ##Annnd we accessed the current screen.
+
+
+<NavDrawer>:
+    id: nav_drawer
+    radius: (0, 16, 16, 0)
+
+    MDList:
+        pos_hint: {"center_y": 0.5}
+        
+        OneLineListItem:
+            text: "Encounters"
+            on_press:
+                nav_drawer.set_state("close")
+                screen_manager.current = "encounters_screen"
+                top_bar.title = self.text
+
+        OneLineListItem:
+            text: "Players"
+            on_press:
+                nav_drawer.set_state("close")
+                screen_manager.current = "players_screen"
+                top_bar.title = "Players"
+
+        OneLineListItem:
+            text: "Monsters"
+            on_press:
+                nav_drawer.set_state("close")
+                screen_manager.current = "monsters_screen"
+                top_bar.title = self.text
+
+                
+    

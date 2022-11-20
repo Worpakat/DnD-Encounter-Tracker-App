@@ -1,0 +1,57 @@
+#:kivy 1.0.0
+
+<PlayersWindow>:
+    name: "players_screen"
+
+    player_md_list: player_md_list_id
+    app_reference: app
+    players_list: app.players_list
+    
+    MDScrollView:
+
+        MDList:
+            id: player_md_list_id
+
+<PlayerListItem>:
+    
+    orientation: "horizontal"
+    adaptive_height: True
+    size_hint_x: 1
+    padding: [8, 0]
+    spacing: 8
+
+    MDTextField:
+        id: name_input_id
+        hint_text: "Name"
+        on_focus: root.on_focus_text_field(self, False)
+    
+    MDTextField:
+        id: hp_input_id
+        hint_text: "HP"
+        on_focus: root.on_focus_text_field(self, True)
+
+    MDTextField:
+        id: ac_input_id
+        hint_text: "AC"
+        on_focus: root.on_focus_text_field(self, True)
+
+    MDTextField:
+        id: pp_input_id
+        hint_text: "PP"
+        on_focus: root.on_focus_text_field(self, True)
+    
+    MDIconButton:
+        icon: "trash-can-outline"
+        on_release: root.on_remove_button()
+        
+
+    
+    
+
+
+
+
+        
+    
+    
+        

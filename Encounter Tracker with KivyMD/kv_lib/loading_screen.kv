@@ -1,0 +1,31 @@
+#:kivy 1.0.0
+
+<LoadingWindow>:
+    name: "loading_screen"
+
+    app_reference: app
+
+    MDLabel:
+        text: "D&D Encounter Manager"
+        font_style: "H5"
+        pos_hint: {"center_x": .5, "center_y": .8}
+        halign: "center"
+
+    MDBoxLayout:
+        orientation: "vertical"
+        adaptive_height: True
+        pos_hint: {'center_x': .5, 'center_y': .5}
+        spacing: 24
+
+        MDSpinner:
+            id: spinner_id
+            size_hint: None, None
+            size: dp(46), dp(46)
+            pos_hint: {'center_x': .5}
+
+        MDLabel:
+            text: "Loading"
+            font_style: "Subtitle1"
+            halign: "center"
+
+
