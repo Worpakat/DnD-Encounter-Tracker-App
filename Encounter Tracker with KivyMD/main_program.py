@@ -1,5 +1,7 @@
 import time
 import threading
+import sys
+import os
 
 from back_program_classes_lib.encounter import Encounter
 from back_program_classes_lib.creature_classes import Player, Monster
@@ -24,12 +26,20 @@ from kivymd.uix.toolbar import MDTopAppBar
 class MainScreen(MDScreen):
     pass
 
-Builder.load_file("kv_lib/loading_screen.kv") 
-Builder.load_file("kv_lib/encounters_screen.kv") 
-Builder.load_file("kv_lib/players_screen.kv") 
-Builder.load_file("kv_lib/monsters_screen.kv")
-Builder.load_file("kv_lib/encounter_making_screen.kv")
-Builder.load_file("kv_lib/encounter_manager_screen.kv") 
+
+if hasattr(sys, '_MEIPASS'):
+    # Running as compiled executable
+    kv_lib_path = os.path.join(sys._MEIPASS, "kv_lib")
+else:
+    # Running in development mode
+    kv_lib_path = os.path.join(os.getcwd(), "kv_lib")
+
+Builder.load_file(os.path.join(kv_lib_path, "loading_screen.kv")) 
+Builder.load_file(os.path.join(kv_lib_path, "encounters_screen.kv")) 
+Builder.load_file(os.path.join(kv_lib_path, "players_screen.kv")) 
+Builder.load_file(os.path.join(kv_lib_path, "monsters_screen.kv"))
+Builder.load_file(os.path.join(kv_lib_path, "encounter_making_screen.kv"))
+Builder.load_file(os.path.join(kv_lib_path, "encounter_manager_screen.kv")) 
 
 
 class EncounterTrackerApp(MDApp):

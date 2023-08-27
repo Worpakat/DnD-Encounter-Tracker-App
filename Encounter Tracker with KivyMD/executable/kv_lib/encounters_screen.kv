@@ -1,0 +1,23 @@
+#:kivy 1.0.0
+
+<EncountersWindow>:
+    name: "encounters_screen"
+    
+    encounter_md_list: encounter_md_list_id
+    app_reference: app
+    encounters_list: app.encounters_list
+
+    MDScrollView:
+
+        MDList:
+            id: encounter_md_list_id
+            
+<NewEncounterDialogContent>:
+    orientation: "vertical"
+    size_hint_y: None
+
+    name_input: name_input_id
+
+    MDTextField:
+        id: name_input_id
+        hint_text: "Encounter Name"
