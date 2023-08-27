@@ -1,7 +1,6 @@
 # DnD-Encounter-Tracker-App
-DnD encounter tracker app. Portfolio project.
-
-Made with KivyMD.
+DnD encounter tracker app. Portfolio project.<br />
+Made with KivyMD.<br />
 Combat mostly inevitable at Tabletop RGP games. With this app initiative order of creatures can be track easily. Also hit point, armor class, passive perception can be tracked due to customized for Dungeons and Dragons. 
 
 *Can be created players and monsters from different screens. (Just can be enter hp, ac and pp because of this app made for just track initiative order.)<br /><br />
@@ -15,4 +14,10 @@ Combat mostly inevitable at Tabletop RGP games. With this app initiative order o
   &emsp;-Creatures can be damaged, healed and modified via pressing the associated list item..<br />
   &emsp;-New creatures can be added via add button where is right of the top app bar..<br />
   &emsp;-App counts encounter's rounds and diplays at bottom of the screen.<br /><br />
-*All encounters, monsters and players be saved to JSON file when exiting the app, and be loaded when opening.
+*All encounters, monsters and players be saved to JSON file when exiting the app, and be loaded when opening.<br /><br />
+**!!Note!!**: In "Encounter Tracker with KivyMD/executable", there is a executable of program. If you want check out actual code files: <br />
+Files/Folders except:<br/>
+    &emsp;-Encounter Tracker with KivyMD/build<br />
+    &emsp;-Encounter Tracker with KivyMD/executable<br />
+    &emsp;-Encounter Tracker with KivyMD/main_program.spec<br />
+    So, you should look except this file/folders and subfolders of them.<br /><br />
