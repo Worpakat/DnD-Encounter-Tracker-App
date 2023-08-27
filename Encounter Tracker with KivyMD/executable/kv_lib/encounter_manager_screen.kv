@@ -1,0 +1,261 @@
+#:kivy 1.0.0
+
+<EncounterManagerWindow>:
+    name: "encounter_manager_screen"
+
+    #ids    
+    app_reference: app
+    creatures_md_list: creatures_md_list_id
+    round_label: round_label_id
+    spinner: spinner_id
+    
+    MDSpinner:
+        id: spinner_id
+        size_hint: None, None
+        size: dp(46), dp(46)
+        pos_hint: {'center_x': .5, 'center_y': .6}
+
+
+    MDBoxLayout:
+        orientation: "vertical"
+        size_hint_x: 1
+        size_hint_y: 1
+
+        MDScrollView:
+
+            MDList:
+                id: creatures_md_list_id
+                spacing: 8
+
+        MDBoxLayout:
+            orientation: "horizontal"
+            adaptive_height: True
+            size_hint_x: 1
+            pos_hint: {"bottom": 1}
+            spacing: self.width/8
+            padding: [8, 8]
+
+            MDRaisedButton:
+                text: "PREV."
+                size_hint_x: 1/4
+                fonst_style: "H1"
+                elevation: 0
+                on_release: root.on_prev_button()
+                md_bg_color: app.secondary_color
+            
+            MDBoxLayout:
+                size_hint_x: 1/4
+                radius: [4, ]
+                md_bg_color: app.theme_cls.primary_color
+                MDLabel:
+                    id: round_label_id
+                    text: "ROUND 1"
+                    halign: "center"
+
+                
+            MDRaisedButton:
+                text: "NEXT"
+                size_hint_x: 1/4
+                fonst_style: "H1"
+                elevation: 0
+                on_release: root.on_next_button(False)
+                md_bg_color: app.secondary_color
+
+
+
+<CreatureListItem>:
+    text: "Creature Name"
+    secondary_text: "Initiative: HP: AC: PP:"
+    
+    # on_release: root.select_item()
+    
+    IconLeftWidgetWithoutTouch:
+        icon: "gitlab" 
+    
+    IconRightWidget:
+        icon: "note-edit-outline"  
+
+<ManageDialogScreenManager>:
+    size_hint_y: None
+    height: "240dp"
+    
+    DialogManageScreen:
+    DialogEditScreen:
+
+<DialogManageScreen>:
+    name: "manage_scr"
+
+    app_reference: app
+    amount_input: amount_input_id
+    damage_check: damage_check_id
+    heal_check: heal_check_id
+    
+    MDGridLayout:
+        rows:3
+        cols:3
+        adaptive_height: True
+        pos_hint: {"center_x": .5, "center_y": .5}
+        # size_hint_x: 1/2
+        
+        rows_minimum: {2: 100}  
+        
+        #1st Row
+        MDLabel:
+            text: "Damage"
+            halign: "center"
+
+        MDTextField:
+            id: amount_input_id
+            halign: "center"
+            on_focus: root.on_focus_amount_input()
+
+        MDLabel:
+            text: "Heal"
+            halign: "center"
+        
+        #2nd Row
+        MDFloatLayout:
+            Check:
+                id: damage_check_id
+                active: True
+                pos_hint: {"center_x": .5, "center_y": .5}
+
+        MDWidget:
+
+        MDFloatLayout:
+            Check:
+                id: heal_check_id
+                pos_hint: {"center_x": .5, "center_y": .5}
+
+        #3rd Row
+        MDWidget:
+
+        MDFloatLayout:
+            MDFlatButton:
+                text: "Edit"
+                pos_hint: {"center_x": .5, "center_y": .5}
+                on_release: root.manager.current = "edit_scr"
+
+        MDWidget:
+
+
+
+<DialogEditScreen>:
+    name: "edit_scr"
+
+    MDBoxLayout:
+        orientation: "vertical"
+        adaptive_height: True
+        size_hint_x: 1
+        pos_hint: {"center_y": 0.5}
+        padding: [8, 0]
+
+        MDBoxLayout:
+            orientation: "horizontal"
+            adaptive_height: True
+            size_hint_x: 1
+
+            MDLabel:
+                text: "Hit Point"
+                halign: "left"
+
+            MDTextField:
+                id: hp_input_id
+                text: "15"
+                halign: "center"
+                on_focus: root.on_focus_text_input(self, "hp")
+
+        MDBoxLayout:
+            orientation: "horizontal"
+            adaptive_height: True
+            size_hint_x: 1
+
+            MDLabel:
+                text: "Armor Class"
+                halign: "left"
+
+            MDTextField:
+                id: ac_input_id
+                text: "18"
+                halign: "center"
+                on_focus: root.on_focus_text_input(self, "ac")
+        
+        MDBoxLayout:
+            orientation: "horizontal"
+            adaptive_height: True
+            size_hint_x: 1
+
+            MDLabel:
+                text: "Passive Perception"
+                halign: "left"
+
+            MDTextField:
+                id: pp_input_id
+                text: "25"
+                halign: "center"
+                on_focus: root.on_focus_text_input(self, "pp")
+
+        MDFlatButton:
+            text: "Back"
+            halign: "left"
+            on_release: root.manager.current = "manage_scr"
+
+
+
+        # MDFloatLayout:
+        #     MDFlatButton:
+        #         text: "Back"
+        #         pos_hint: {"center_x": .5, "center_y": .5}
+        #         on_release: root.manager.current = "manage_scr"
+
+
+
+
+
+<Check@MDCheckbox>:
+
+    group: 'group'
+    size_hint: None, None
+    size: dp(48), dp(48)
+
+<AddDialogScreenManager>:
+    size_hint_y: None
+    height: "240dp"
+    
+    AddDialogListScreen:
+    AddDialogInitScreen:
+
+<AddDialogListScreen>:
+    name: "list_scr"
+
+    creatures_md_list: creatures_md_list_id
+
+    MDScrollView:
+
+        MDList:
+            id: creatures_md_list_id
+            list_scr_ref: root
+
+<AddDialogInitScreen>:
+    name: "init_scr"
+    
+    init_input: init_input_id
+
+    MDBoxLayout:
+        orientation: "vertical"
+        adaptive_height: True
+        size_hint_x: 1
+        pos_hint: {"center_x": .5, "center_y": .5}
+
+        MDLabel:
+            text: "Enter creatures initiative."
+            halign: "center"
+            # pos_hint: {"center_x": .5}
+
+        MDTextField:
+            id: init_input_id
+            hint_text: "Initiative"
+            halign: "center"
+            size_hint_x: .15
+            pos_hint: {"center_x": .5}
+            on_focus: root.on_focus_init_input()

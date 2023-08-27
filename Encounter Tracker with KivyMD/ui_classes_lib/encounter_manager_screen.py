@@ -151,10 +151,10 @@ class EncounterManagerWindow(Screen):
     def __manage_dialog_on_apply__(self,instance):
         """Apply changes and dismiss the manage dialog."""
         
+        self.manage_dialog.content_cls.get_screen("edit_scr").apply_changes(self.editing_c_item.creature)
+
         dh_amount = self.manage_dialog.content_cls.get_screen("manage_scr").get_damage_or_heal()
         self.editing_c_item.creature.hit_point += dh_amount
-
-        self.manage_dialog.content_cls.get_screen("edit_scr").apply_changes(self.editing_c_item.creature)
 
         self.editing_c_item.update_creature_info()
         self.manage_dialog.dismiss()

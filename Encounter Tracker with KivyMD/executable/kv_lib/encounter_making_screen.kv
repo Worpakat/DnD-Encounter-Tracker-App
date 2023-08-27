@@ -1,0 +1,153 @@
+#:kivy 1.0.0
+
+<EncounterMakingWindow>:
+    
+    name: "encounter_making_screen"
+
+    #ids
+    added_monsters_list: added_monsters_list_id
+    app_reference: app
+    
+    MDScrollView:
+
+        MDList:
+            id: added_monsters_list_id
+    
+    MDBoxLayout:
+        orientation: "vertical"
+        adaptive_hieght: True
+        size_hint_x: 1
+        pos_hint: {"bottom": 1}
+        
+        MDRaisedButton:
+            size_hint_x: 1
+            text: "START ENCOUNTER"
+            font_size: "20sp"
+            on_release: root.on_start_encounter()
+
+<MonsterItem>:
+    
+    orientation: "horizontal"
+    adaptive_height: True
+    size_hint_x: 1
+    padding: [8, 0]
+    spacing: 16
+
+    #ids
+    monster_name: monster_name_id
+    amount_input: amount_input_id
+
+    MDLabel:
+        id: monster_name_id
+        text: "Monster's Name"
+
+    MDTextField:
+        size_hint_x: .3
+        id: amount_input_id
+        hint_text: "Amount"
+        on_focus: root.on_focus_amount_field()
+    
+    MDIconButton:
+        icon: "trash-can-outline"
+        on_release: root.on_remove_button()
+
+
+<DialogContent>:
+    name: "adding_screen"
+    # orientation: "vertical"
+    # spacing: "12dp"
+    size_hint_y: None
+    height: "240dp"
+
+    app_reference: app
+    dialog_list: dialog_list_id
+
+    MDScrollView:
+        MDList:
+            id: dialog_list_id
+
+<DialogItem>:
+
+    text: "monster name"
+    secondary_text: "second line"
+
+    check_box: check_box_id
+
+    RightCheckbox:
+        id: check_box_id
+        root_reference: root
+            
+<StartDialogContent>:
+    size_hint_y: None
+    height: "240dp"
+    
+    DialogContent:
+    CreaturesListScreen:
+
+
+<CreaturesListScreen>:
+    name: "creatures_list_screen"
+    
+    #ids
+    monsters_list: monsters_list_id
+    players_list: players_list_id
+
+    MDScrollView:
+
+        MDList:
+
+            MDBoxLayout:
+                orientation: "vertical"
+                adaptive_height: True
+                size_hint_x: 1
+               
+                MDLabel:
+                    adaptive_height: True
+                    text: "Players"
+
+                MDBoxLayout:
+                    id: players_list_id
+                    
+                    orientation: "vertical"
+                    adaptive_height: True
+                    size_hint_x: 1
+
+            MDBoxLayout:
+                orientation: "vertical"
+                adaptive_height: True
+                size_hint_x: 1
+                
+                MDLabel:
+                    adaptive_height: True
+                    text: "Monsters"
+                
+                MDBoxLayout:
+                    id: monsters_list_id
+                    
+                    orientation: "vertical"
+                    adaptive_height: True
+                    size_hint_x: 1
+
+
+<PlayerInitiativeItem>:
+    
+    orientation: "horizontal"
+    adaptive_height: True
+    size_hint_x: 1
+    padding: [8, 0]
+    spacing: 16
+
+    #ids
+    player_name: player_name_id
+    initiative_input: initiative_input_id
+
+    MDLabel:
+        id: player_name_id
+        text: "Player's Name"
+
+    MDTextField:
+        size_hint_x: .3
+        id: initiative_input_id
+        hint_text: "Initiative"
+        on_focus: root.on_focus_initiative_input()
+    

@@ -1,0 +1,1176 @@
+('D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+ 'Manager\\Encounter Tracker with '
+ 'KivyMD\\build\\main_program\\main_program.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with KivyMD\\build\\main_program\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with '
+   'KivyMD\\build\\main_program\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with '
+   'KivyMD\\build\\main_program\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with '
+   'KivyMD\\build\\main_program\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with '
+   'KivyMD\\build\\main_program\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with '
+   'KivyMD\\build\\main_program\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_kivy',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_kivy.py',
+   'PYSOURCE'),
+  ('pyi_rth_gstreamer',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_gstreamer.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('main_program',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with KivyMD\\main_program.py',
+   'PYSOURCE'),
+  ('python311.dll',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('kivy\\_metrics.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\_metrics.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\instructions.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\instructions.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\context_instructions.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\context_instructions.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\stencil_instructions.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\stencil_instructions.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\lib\\gstplayer\\_gstplayer.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\lib\\gstplayer\\_gstplayer.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\svg.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\svg.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\compiler.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\compiler.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_mock.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_mock.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_sdl2.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_debug.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_debug.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\shader.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\shader.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\tesselator.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\tesselator.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\fbo.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\fbo.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\clipboard\\_clipboard_sdl2.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\core\\clipboard\\_clipboard_sdl2.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\window\\_window_sdl2.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\core\\window\\_window_sdl2.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingft.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\PIL\\_imagingft.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\PIL\\_webp.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\PIL\\_imagingtk.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\PIL\\_imagingcms.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\PIL\\_imaging.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\scissor_instructions.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\scissor_instructions.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32\\win32file.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\win32\\win32file.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\image\\_img_sdl2.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\core\\image\\_img_sdl2.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_gl.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_gl.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\texture.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\texture.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\window\\window_info.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\core\\window\\window_info.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32\\win32gui.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\win32\\win32gui.pyd',
+   'EXTENSION'),
+  ('win32\\win32api.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\vbo.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\vbo.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\cgl.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\opengl.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\opengl.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\vertex_instructions.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\vertex_instructions.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\buffer.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\buffer.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\boxshadow.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\boxshadow.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\vertex.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\vertex.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\context.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\context.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\text\\text_layout.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\core\\text\\text_layout.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_glew.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_glew.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\text\\_text_sdl2.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\core\\text\\_text_sdl2.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\opengl_utils.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\opengl_utils.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\audio\\audio_sdl2.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\core\\audio\\audio_sdl2.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\gl_instructions.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\gl_instructions.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\weakproxy.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\weakproxy.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\transformation.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\graphics\\transformation.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\_event.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\_event.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\properties.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\properties.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\_clock.cp311-win_amd64.pyd',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\_clock.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('SDL2.dll',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\share\\sdl2\\bin\\SDL2.dll',
+   'BINARY'),
+  ('SDL2_image.dll',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\share\\sdl2\\bin\\SDL2_image.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes311.dll',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\pywin32_system32\\pywintypes311.dll',
+   'BINARY'),
+  ('glew32.dll',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\share\\glew\\bin\\glew32.dll',
+   'BINARY'),
+  ('SDL2_ttf.dll',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\share\\sdl2\\bin\\SDL2_ttf.dll',
+   'BINARY'),
+  ('SDL2_mixer.dll',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\share\\sdl2\\bin\\SDL2_mixer.dll',
+   'BINARY'),
+  ('kv_lib\\encounter_making_screen.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with KivyMD\\kv_lib\\encounter_making_screen.kv',
+   'DATA'),
+  ('kv_lib\\encounter_manager_screen.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with '
+   'KivyMD\\kv_lib\\encounter_manager_screen.kv',
+   'DATA'),
+  ('kv_lib\\encounters_screen.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with KivyMD\\kv_lib\\encounters_screen.kv',
+   'DATA'),
+  ('kv_lib\\loading_screen.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with KivyMD\\kv_lib\\loading_screen.kv',
+   'DATA'),
+  ('kv_lib\\monsters_screen.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with KivyMD\\kv_lib\\monsters_screen.kv',
+   'DATA'),
+  ('kv_lib\\players_screen.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with KivyMD\\kv_lib\\players_screen.kv',
+   'DATA'),
+  ('kv_lib\\root.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with KivyMD\\kv_lib\\root.kv',
+   'DATA'),
+  ('base_library.zip',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\Encounter Tracker with '
+   'KivyMD\\build\\main_program\\base_library.zip',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\inspector.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\inspector.cpython-311.pyc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isonum.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\titlepage.tex',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-16.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('kivymd\\uix\\datatables\\datatables.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\datatables\\datatables.kv',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\docutils.sty',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\latex2e\\docutils.sty',
+   'DATA'),
+  ('docutils\\writers\\html4css1\\html4css1.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\monitor.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\monitor.cpython-311.pyc',
+   'DATA'),
+  ('kivymd\\fonts\\materialdesignicons-webfont.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\materialdesignicons-webfont.ttf',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('kivymd\\uix\\snackbar\\snackbar.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\snackbar\\snackbar.kv',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-48.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.fs',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\glsl\\default.fs',
+   'DATA'),
+  ('kivymd\\uix\\spinner\\spinner.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\spinner\\spinner.kv',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\fr_CH.json',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\header.vs',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\glsl\\header.vs',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isolat1.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-256.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('kivymd\\images\\logo\\kivymd-icon-256.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\images\\logo\\kivymd-icon-256.png',
+   'DATA'),
+  ('kivy_install\\data\\images\\testpattern.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\images\\testpattern.png',
+   'DATA'),
+  ('kivymd\\uix\\segmentedbutton\\segmentedbutton.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\segmentedbutton\\segmentedbutton.kv',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\screen.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\screen.cpython-311.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\webdebugger.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\webdebugger.py',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('kivy_install\\modules\\showborder.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\showborder.py',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-ThinItalic.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\Roboto-ThinItalic.ttf',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Bold.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaultshape.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\qwertz.json',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\README.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('kivy_install\\data\\images\\cursor.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\images\\cursor.png',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\xelatex.tex',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomscr.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Black.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\Roboto-Black.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\_webdebugger.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\_webdebugger.cpython-311.pyc',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamso.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaulttheme-0.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('kivymd\\uix\\tooltip\\tooltip.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\tooltip\\tooltip.kv',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\math.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('kivy_install\\modules\\keybinding.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\keybinding.py',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('kivy_install\\modules\\cursor.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\cursor.py',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\plain.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('kivymd\\uix\\expansionpanel\\expansionpanel.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\expansionpanel\\expansionpanel.kv',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\recorder.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\recorder.cpython-311.pyc',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\responsive.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\de.json',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\keyboards\\de.json',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\header.fs',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\glsl\\header.fs',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('kivymd\\uix\\navigationrail\\navigationrail.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\navigationrail\\navigationrail.kv',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\webdebugger.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\webdebugger.cpython-311.pyc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isopub.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('kivymd\\uix\\pickers\\colorpicker\\colorpicker.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\pickers\\colorpicker\\colorpicker.kv',
+   'DATA'),
+  ('kivymd\\uix\\dropdownitem\\dropdownitem.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\dropdownitem\\dropdownitem.kv',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('kivy_install\\modules\\__init__.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__init__.py',
+   'DATA'),
+  ('kivy_install\\data\\images\\image-loading.zip',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('kivymd\\images\\logo\\kivymd-icon-128.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\images\\logo\\kivymd-icon-128.png',
+   'DATA'),
+  ('kivy_install\\modules\\_webdebugger.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\_webdebugger.py',
+   'DATA'),
+  ('kivymd\\images\\blue.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\images\\blue.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('kivy_install\\modules\\recorder.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\recorder.py',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\showborder.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\showborder.cpython-311.pyc',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-128.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isodia.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('kivymd\\uix\\pickers\\timepicker\\timepicker.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\pickers\\timepicker\\timepicker.kv',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Regular.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('kivymd\\images\\green.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\images\\green.png',
+   'DATA'),
+  ('kivy_install\\data\\images\\image-loading.gif',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('docutils\\writers\\pep_html\\pep.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('kivymd\\uix\\filemanager\\filemanager.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\filemanager\\filemanager.kv',
+   'DATA'),
+  ('kivy_install\\modules\\inspector.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\inspector.py',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\minimal.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isotech.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('kivymd\\images\\yellow.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\images\\yellow.png',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\qwerty.json',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Italic.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\glsl\\default.png',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Medium.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\Roboto-Medium.ttf',
+   'DATA'),
+  ('kivymd\\uix\\tab\\tab.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\tab\\tab.kv',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\cursor.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\cursor.cpython-311.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\keybinding.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\keybinding.cpython-311.pyc',
+   'DATA'),
+  ('kivymd\\uix\\sliverappbar\\sliverappbar.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\sliverappbar\\sliverappbar.kv',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\titlingpage.tex',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'DATA'),
+  ('kivymd\\uix\\selection\\selection.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\selection\\selection.kv',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-BlackItalic.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\Roboto-BlackItalic.ttf',
+   'DATA'),
+  ('kivymd\\images\\transparent.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\images\\transparent.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-32.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\s5defs.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('certifi\\py.typed',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-24.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('docutils\\writers\\html4css1\\template.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('kivymd\\uix\\navigationdrawer\\navigationdrawer.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\navigationdrawer\\navigationdrawer.kv',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\template.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\README.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('kivymd\\uix\\button\\button.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\button\\button.kv',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('kivymd\\uix\\chip\\chip.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\chip\\chip.kv',
+   'DATA'),
+  ('kivymd\\uix\\segmentedcontrol\\segmentedcontrol.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\segmentedcontrol\\segmentedcontrol.kv',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('kivy_install\\modules\\monitor.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\monitor.py',
+   'DATA'),
+  ('kivymd\\uix\\label\\label.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\label\\label.kv',
+   'DATA'),
+  ('kivymd\\images\\red.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\images\\red.png',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Thin.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\Roboto-Thin.ttf',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\de_CH.json',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('kivymd\\uix\\backdrop\\backdrop.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\backdrop\\backdrop.kv',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.vs',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\glsl\\default.vs',
+   'DATA'),
+  ('kivy_install\\data\\style.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\style.kv',
+   'DATA'),
+  ('kivymd\\uix\\slider\\slider.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\slider\\slider.kv',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-512.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('kivymd\\images\\alpha_layer.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\images\\alpha_layer.png',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\joycursor.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\joycursor.cpython-311.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\__init__.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\__init__.cpython-311.pyc',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomopf.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('kivymd\\uix\\toolbar\\toolbar.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\toolbar\\toolbar.kv',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\tuftig.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isobox.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('kivymd\\uix\\bottomsheet\\bottomsheet.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\bottomsheet\\bottomsheet.kv',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\en_US.json',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Light.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\Roboto-Light.ttf',
+   'DATA'),
+  ('kivymd\\uix\\pickers\\datepicker\\datepicker.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\pickers\\datepicker\\datepicker.kv',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('kivymd\\uix\\refreshlayout\\refreshlayout.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\refreshlayout\\refreshlayout.kv',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('kivymd\\uix\\banner\\banner.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\banner\\banner.kv',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\default.tex',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\azerty.json',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-LightItalic.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\Roboto-LightItalic.ttf',
+   'DATA'),
+  ('kivymd\\uix\\dialog\\dialog.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\dialog\\dialog.kv',
+   'DATA'),
+  ('docutils\\writers\\pep_html\\template.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('kivymd\\uix\\menu\\menu.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\menu\\menu.kv',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-MediumItalic.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\Roboto-MediumItalic.ttf',
+   'DATA'),
+  ('kivymd\\uix\\progressbar\\progressbar.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\progressbar\\progressbar.kv',
+   'DATA'),
+  ('kivy_install\\modules\\console.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\console.py',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isolat2.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('kivy_install\\data\\images\\background.jpg',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\images\\background.jpg',
+   'DATA'),
+  ('kivy_install\\modules\\joycursor.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\joycursor.py',
+   'DATA'),
+  ('kivymd\\uix\\list\\list.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\list\\list.kv',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('kivymd\\uix\\textfield\\textfield.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\textfield\\textfield.kv',
+   'DATA'),
+  ('kivy_install\\modules\\touchring.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\touchring.py',
+   'DATA'),
+  ('kivymd\\images\\black.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\images\\black.png',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-BoldItalic.ttf',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('kivy_install\\data\\settings_kivy.json',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\settings_kivy.json',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-64.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('kivymd\\uix\\bottomnavigation\\bottomnavigation.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\bottomnavigation\\bottomnavigation.kv',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('kivymd\\uix\\imagelist\\imagelist.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\imagelist\\imagelist.kv',
+   'DATA'),
+  ('kivymd\\uix\\card\\card.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\card\\card.kv',
+   'DATA'),
+  ('docutils\\writers\\odf_odt\\styles.odt',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('kivymd\\images\\folder.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\images\\folder.png',
+   'DATA'),
+  ('kivymd\\uix\\selectioncontrol\\selectioncontrol.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\selectioncontrol\\selectioncontrol.kv',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\touchring.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\touchring.cpython-311.pyc',
+   'DATA'),
+  ('kivymd\\images\\logo\\kivymd-icon-512.png',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\images\\logo\\kivymd-icon-512.png',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaulttheme.atlas',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\console.cpython-311.pyc',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\__pycache__\\console.cpython-311.pyc',
+   'DATA'),
+  ('kivymd\\uix\\swiper\\swiper.kv',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivymd\\uix\\swiper\\swiper.kv',
+   'DATA'),
+  ('kivy_install\\modules\\screen.py',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\kivy\\modules\\screen.py',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'D:\\YAZILIM\\YAZILIM 2022\\Esas Şimdi Başlıyoruz\\DnD Encounter '
+   'Manager\\venv\\Lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

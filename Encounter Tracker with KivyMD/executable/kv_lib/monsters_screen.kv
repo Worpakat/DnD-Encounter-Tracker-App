@@ -1,0 +1,50 @@
+#:kivy 1.0.0
+
+<MonstersWindow>:
+    name: "monsters_screen"
+
+    monster_md_list: monster_md_list_id
+    app_reference: app
+    # monsters_list: app.monsters_list
+    
+    MDScrollView:
+
+        MDList:
+            id: monster_md_list_id
+
+<MonsterListItem>:
+    
+    orientation: "horizontal"
+    adaptive_height: True
+    size_hint_x: 1
+    padding: [8, 0]
+    spacing: 8
+
+    MDTextField:
+        id: name_input_id
+        hint_text: "Name"
+        on_focus: root.on_focus_text_field(self, False)
+    
+    MDTextField:
+        id: hp_input_id
+        hint_text: "HP"
+        on_focus: root.on_focus_text_field(self, True)
+
+    MDTextField:
+        id: ac_input_id
+        hint_text: "AC"
+        on_focus: root.on_focus_text_field(self, True)
+
+    MDTextField:
+        id: pp_input_id
+        hint_text: "PP"
+        on_focus: root.on_focus_text_field(self, True)
+
+    MDTextField:
+        id: init_modifier_input_id
+        hint_text: "Init. Modifier"
+        on_focus: root.on_focus_text_field(self, True)
+
+    MDIconButton:
+        icon: "trash-can-outline"
+        on_release: root.on_remove_button()
