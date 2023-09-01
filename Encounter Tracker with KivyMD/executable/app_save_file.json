@@ -31,6 +31,14 @@
             "passive_perception": 13,
             "initiative": 0,
             "type": "Player"
+        },
+        {
+            "name": "Grogash",
+            "hit_point": 68,
+            "armor_class": 16,
+            "passive_perception": 13,
+            "initiative": 0,
+            "type": "Player"
         }
     ],
     "monsters": [
@@ -39,7 +47,7 @@
             "hit_point": 16,
             "armor_class": 14,
             "passive_perception": 15,
-            "initiative": 0,
+            "initiative": 16,
             "initiative_modifier": 3,
             "type": "Monster"
         },
@@ -60,18 +68,36 @@
             "initiative": 25,
             "initiative_modifier": 11,
             "type": "Monster"
+        },
+        {
+            "name": "Tascha",
+            "hit_point": 156,
+            "armor_class": 18,
+            "passive_perception": 16,
+            "initiative": 0,
+            "initiative_modifier": 8,
+            "type": "Monster"
+        },
+        {
+            "name": "Beholder",
+            "hit_point": 180,
+            "armor_class": 18,
+            "passive_perception": 22,
+            "initiative": 0,
+            "initiative_modifier": 2,
+            "type": "Monster"
         }
     ],
     "encounters": [
         {
-            "name": "Encounter Started",
+            "name": "Tascha and Beholder Boss Fight",
             "started": true,
-            "current_index": 4,
-            "round": 1,
+            "current_index": 5,
+            "round": 3,
             "players": [
                 {
                     "name": "Diete'r",
-                    "hit_point": 20,
+                    "hit_point": 8,
                     "armor_class": 15,
                     "passive_perception": 13,
                     "initiative": 23,
@@ -79,18 +105,18 @@
                 },
                 {
                     "name": "Nelo",
-                    "hit_point": 36,
+                    "hit_point": 56,
                     "armor_class": 16,
                     "passive_perception": 13,
-                    "initiative": 18,
+                    "initiative": 19,
                     "type": "Player"
                 },
                 {
                     "name": "Gulien",
-                    "hit_point": 17,
+                    "hit_point": -3,
                     "armor_class": 15,
                     "passive_perception": 15,
-                    "initiative": 14,
+                    "initiative": 12,
                     "type": "Player"
                 },
                 {
@@ -98,135 +124,35 @@
                     "hit_point": 32,
                     "armor_class": 18,
                     "passive_perception": 13,
-                    "initiative": 4,
+                    "initiative": 1,
+                    "type": "Player"
+                },
+                {
+                    "name": "Grogash",
+                    "hit_point": 68,
+                    "armor_class": 16,
+                    "passive_perception": 13,
+                    "initiative": 14,
                     "type": "Player"
                 }
             ],
             "monsters": [
                 {
-                    "name": "#1 Wolf",
-                    "hit_point": 16,
-                    "armor_class": 14,
-                    "passive_perception": 15,
-                    "initiative": 7,
-                    "initiative_modifier": 3,
+                    "name": "#1 Tascha",
+                    "hit_point": 156,
+                    "armor_class": 18,
+                    "passive_perception": 16,
+                    "initiative": 26,
+                    "initiative_modifier": 8,
                     "type": "Monster"
                 },
                 {
-                    "name": "#2 Wolf",
-                    "hit_point": 16,
-                    "armor_class": 14,
-                    "passive_perception": 15,
-                    "initiative": 21,
-                    "initiative_modifier": 3,
-                    "type": "Monster"
-                },
-                {
-                    "name": "#3 Wolf",
-                    "hit_point": 24,
-                    "armor_class": 14,
-                    "passive_perception": 15,
-                    "initiative": 22,
-                    "initiative_modifier": 3,
-                    "type": "Monster"
-                },
-                {
-                    "name": "#4 Wolf",
-                    "hit_point": 16,
-                    "armor_class": 14,
-                    "passive_perception": 15,
-                    "initiative": 17,
-                    "initiative_modifier": 3,
-                    "type": "Monster"
-                },
-                {
-                    "name": "#5 Wolf",
-                    "hit_point": 16,
-                    "armor_class": 14,
-                    "passive_perception": 15,
-                    "initiative": 14,
-                    "initiative_modifier": 3,
-                    "type": "Monster"
-                },
-                {
-                    "name": "#6 Wolf",
-                    "hit_point": 16,
-                    "armor_class": 14,
-                    "passive_perception": 15,
-                    "initiative": 15,
-                    "initiative_modifier": 3,
-                    "type": "Monster"
-                },
-                {
-                    "name": "#7 Wolf",
-                    "hit_point": 16,
-                    "armor_class": 14,
-                    "passive_perception": 15,
-                    "initiative": 12,
-                    "initiative_modifier": 3,
-                    "type": "Monster"
-                },
-                {
-                    "name": "#8 Wolf",
-                    "hit_point": 25,
-                    "armor_class": 14,
-                    "passive_perception": 15,
-                    "initiative": 23,
-                    "initiative_modifier": 3,
-                    "type": "Monster"
-                },
-                {
-                    "name": "#9 Wolf",
-                    "hit_point": 16,
-                    "armor_class": 14,
-                    "passive_perception": 15,
-                    "initiative": 20,
-                    "initiative_modifier": 3,
-                    "type": "Monster"
-                },
-                {
-                    "name": "#10 Wolf",
-                    "hit_point": 16,
-                    "armor_class": 14,
-                    "passive_perception": 15,
-                    "initiative": 8,
-                    "initiative_modifier": 3,
-                    "type": "Monster"
-                },
-                {
-                    "name": "#11 Wolf",
-                    "hit_point": 16,
-                    "armor_class": 14,
-                    "passive_perception": 15,
-                    "initiative": 13,
-                    "initiative_modifier": 3,
-                    "type": "Monster"
-                },
-                {
-                    "name": "#12 Wolf",
-                    "hit_point": 16,
-                    "armor_class": 14,
-                    "passive_perception": 15,
-                    "initiative": 20,
-                    "initiative_modifier": 3,
-                    "type": "Monster"
-                },
-                {
-                    "name": "#1 The King",
-                    "hit_point": 184,
-                    "armor_class": 22,
-                    "passive_perception": 18,
-                    "initiative": 9,
-                    "initiative_modifier": 7,
-                    "type": "Monster"
-                },
-                {
-                    "name": "#1 Versingetorix",
-                    "hit_point": 252,
-                    "armor_class": 24,
-                    "passive_perception": 21,
-                    "initiative": 27,
-                    "initiative_modifier": 11,
+                    "name": "#1 Beholder",
+                    "hit_point": 160,
+                    "armor_class": 15,
+                    "passive_perception": 16,
+                    "initiative": 6,
+                    "initiative_modifier": 2,
                     "type": "Monster"
                 }
             ]
